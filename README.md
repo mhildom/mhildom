@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, welcome to my Github, my name is Matt Hildom
 
-<!--
-**mhildom/mhildom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT professional moving into security after 5 years supporting enterprise systems at Ohio University. 
+CompTIA Security+ certified.
 
-Here are some ideas to get you started:
+**My focus right now:** vulnerability management and security operations
+**Where I would like to get to:** penetration testing and malware analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology I've worked with
+- Windows Server(2012-2025), Linux (RHEL 7-9, Ubuntu, Debian, Kali, Mint), Apache, Hyper-V, Active Directory
+- API integration (SOAP), PeopleSoft
+- Python, Ruby, [PowerShell / Bash / etc.]
+- [Nessus / Wazuh / Splunk / Wireshark, as you add them]
+
+## Lab writeups
+- [Writeups site](link coming soon)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/matthew-hildom/) · [Blog](link)
