@@ -1,4 +1,6 @@
-# Hello, welcome to my Github, my name is Matt Hildom
+# Hello, welcome to my Github 
+
+My name is Matt Hildom
 
 I am an IT professional moving into security after 5 years supporting enterprise systems at Ohio University. 
 
