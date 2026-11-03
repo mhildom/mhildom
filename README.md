@@ -17,7 +17,7 @@ https://www.credly.com/badges/3ceb46e5-c3bc-4fba-a3a4-dae2ec850cf8/public_url
 - [Nessus / Wazuh / Splunk / Wireshark, as you add them]
 
 ## Lab writeups
-- [Writeups site](link coming soon)
+- [Writeups site](https://matthildom.dev)
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/matthew-hildom/) · [Blog](link)
+[LinkedIn](https://www.linkedin.com/in/matthew-hildom/) · [Blog](https://matthildom.dev)
